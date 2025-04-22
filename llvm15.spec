@@ -8,7 +8,7 @@
 %define keepstatic 1
 Name     : llvm15
 Version  : 15.0.7
-Release  : 165
+Release  : 166
 URL      : https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.7/llvm-project-15.0.7.src.tar.xz
 Source0  : https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.7/llvm-project-15.0.7.src.tar.xz
 Source1  : https://github.com/llvm/llvm-project/releases/download/llvmorg-15.0.7/llvm-project-15.0.7.src.tar.xz.sig
